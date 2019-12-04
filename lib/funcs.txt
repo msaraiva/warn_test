@@ -1,0 +1,4 @@
+foo
+bar
+error
+baz
